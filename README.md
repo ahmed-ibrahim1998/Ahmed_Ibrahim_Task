@@ -5,5 +5,5 @@
 # First Delete From Local
 -git branch -d test
 
-# second Delete From remotly
+## second Delete From remotly
 -git push origin --delete test
