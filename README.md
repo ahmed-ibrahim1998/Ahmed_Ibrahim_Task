@@ -1,4 +1,4 @@
-# Ahmed_Ibrahim_Task1
+                                                                    # Ahmed_Ibrahim_Task1
 
 # Tell Me How Delete Branch From Local And Remotly
 
@@ -9,7 +9,7 @@
 - git push origin --delete test
 
 
-#tell me how to delete tag locally and remotely.
+# Tell Me How Delete Tag From Local And Remotly
 
 ## First Delete From Local
 - git tag -d v1.4
