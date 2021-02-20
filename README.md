@@ -1,9 +1,9 @@
 # Ahmed_Ibrahim_Task
 
-## Tell Me How Delete Branch From Local And Remotly
+# Tell Me How Delete Branch From Local And Remotly
 
-# First Delete From Local
--git branch -d test
+## First Delete From Local
+- git branch -d test
 
 ## second Delete From remotly
--git push origin --delete test
+- git push origin --delete test
